@@ -1,6 +1,5 @@
 import crypto, { createHmac } from "crypto";
 import fs from "fs";
-import { stdout } from "process";
 
 const filePath = "src/hash/files/fileToCalculateHashFor.txt";
 
